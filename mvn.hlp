@@ -1,0 +1,5 @@
+
+command to create new java project:
+mvn archetype:generate -DgroupId=com.niki-ai.msgserver -DartifactId=ams -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+
