@@ -1,5 +1,6 @@
 
+
 command to create new java project:
 mvn archetype:generate -DgroupId=com.niki-ai.msgserver -DartifactId=ams -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 
-
+ mvn archetype:generate -DarchetypeArtifactId=android-quickstart -DarchetypeGroupId=de.akquinet.android.archetypes -DarchetypeVersion=1.0.6 -DgroupId=your.company -DartifactId=my-android-application

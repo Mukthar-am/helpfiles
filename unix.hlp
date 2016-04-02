@@ -1,0 +1,6 @@
+Find opened/used ports on unix and kill:
+cmd: lsof -i :8080
+
+Kill:
+kill -9 <PID>
+
